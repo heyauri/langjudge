@@ -1,0 +1,28 @@
+{
+  "name": "langjudge",
+  "version": "0.1.0",
+  "dependencies": {},
+  "description": "A module that is used to judge what type of language was input.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ruiyeah/langjudge.git"
+  },
+  "keywords": [
+    "language",
+    "unicode",
+    "judge"
+  ],
+  "author": "ruiyeah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ruiyeah/langjudge/issues"
+  },
+  "homepage": "https://github.com/ruiyeah/langjudge#readme"
+}
