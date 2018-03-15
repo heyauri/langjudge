@@ -4,24 +4,24 @@
 A nodejs module that is used to judge what type of language was input.
 
 ## Usage
-You won't need install any dependencies at all.
+You won't need to install any dependencies at all.
 
-The module just use the Unicode to match the input's pattern.
+The module just use the Unicode to match the input's pattern automatically.
 
 ### apis:
 ### `langjudge.langAllContain(str)`
 
-It will list out all the language type that your input possibily belonging to.
+It will list all the language types that your input may belong to.
 
 for example:
 
 `langjudge.langAllContain("あ")`
 
-it will return a result"['japanese']"
+It will return a result "['japanese']"
 
 `langjudge.langAllContain("م")`
 
-it will return a result"['Arabic']"
+It will return a result "['Arabic']"
 
 ## warning:
 
