@@ -1,6 +1,6 @@
 {
   "name": "langjudge",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "dependencies": {},
   "description": "A module that is used to judge what type of language was input.",
   "main": "index.js",
