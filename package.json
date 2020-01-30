@@ -1,6 +1,6 @@
 {
   "name": "langjudge",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "dependencies": {},
   "description": "A module that is used to judge what type of language was input.",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "lib": "lib"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
